@@ -1,2 +1,2 @@
 # react-front-end-add-data
-This is the react-front end to add data of person(s) working in an organization
+Allows a sytem admin to manage reviews and add new reviews made by  person
